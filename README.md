@@ -13,7 +13,7 @@ This repository contains a TensorFlow implementation of a multimodal steganograp
 1. Clone the repository:
    ```bash
    git clone https://github.com/0xDamian/MultiStegAnalysis.git
-   cd multimodal-steganography-detection
+   cd MultiStegAnalysis
    ```
 2. Install dependencies:
     
